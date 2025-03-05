@@ -15,4 +15,6 @@ This tool monitors a specific folder and detects when there are new or modified 
   python3 met.py -h
 
 ```
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
